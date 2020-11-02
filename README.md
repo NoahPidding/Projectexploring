@@ -7,6 +7,7 @@ Succeeded in creating different web addresses that correspond to the pages ✅
 **Charlie**:
 Succeeded in creating a stripe (shape) in order to highlight each title of each genre, therefore enhancing the website✅
 Succeeded in changing the fonts of each of the titles in order to make the site more appealing✅
+
 **Noah**: 
 Was able to help format the website with titles and links in the navigation bar to make the website easy to navigate through ✅
 Helped check for any bugs or issues with the project to ensure that the website would run smoothly ✅
@@ -14,7 +15,10 @@ Helped check for any bugs or issues with the project to ensure that the website 
 **Rivan**:
 Succeded in putting different genres of music into Repl.it✅
 Sucdeded in changing the background color into different colors✅
+
 **Sarah**:
+Succeeded in adding an animated background within the Repl.it environment ✅
+Researched ways to make websites responsive to all size screens (eg. using % EV and VH instead of px) ✅
 
 # Self + Scrum Master Grading
 **Rohan**: 
@@ -43,6 +47,6 @@ Justification: Rivan accomplished his goals and was able to successfully think u
 
 **Sarah**: 
 Self - 20/20
-Justification:
+Justification: I tried many different types of animations. I settled on adding sine waves from ano.js. I got it to work within the repl preview, despite it not working outside of the preview. I also researched ways to make websites responsive to different screen sizes. I learned that there are other ways to define width and positioning that can help this.
 Scrum Master - 5/5
 Justification: Sarah was able to successfully put in an animated background, which enhanced the website. She successfully looked into how to be able to scale the website so that it would look nice on all types of platforms.
